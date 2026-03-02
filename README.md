@@ -11,14 +11,12 @@
 
 I'm a Software Development Engineering student with a growing focus on full stack web development. I'm passionate about building functional, well-structured technological solutions that create real social impact.
   
-- 🚀 Currently Working On / Exploring
+- 🌱 Currently Working On / Exploring
      - Backend development using .NET and C#
+     - Web development
      - Database design and management (MySQL, PostgreSQL)
      - API architecture and project structuring
-- 🌱 Currently Learning
      - Data processing and analysis with Python
-     - Web development best practices
-     - Professional project structuring
 - 💡 Professional Interests
      - Backend and application architecture
      - Data analysis
