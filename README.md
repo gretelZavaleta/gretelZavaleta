@@ -23,8 +23,5 @@ I'm a Software Development Engineering student with a growing focus on full stac
      - Web Development
 - 💬 Favorite Quote / Work Philosophy: "First I solve, then I code"
 
-I strongly believe that understanding the logic and purpose behind every solution is more important than just coding.
-
-
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
