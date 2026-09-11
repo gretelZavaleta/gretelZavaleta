@@ -11,17 +11,7 @@
 
 I'm a Software Development Engineering student with a growing focus on full stack web development. I'm passionate about building functional, well-structured technological solutions that create real social impact.
   
-- 🌱 Currently Working On / Exploring
-     - Backend development using .NET and C#
-     - Web development
-     - Database design and management (MySQL, PostgreSQL)
-     - API architecture and project structuring
-     - Data processing and analysis with Python
-- 💡 Professional Interests
-     - Backend and application architecture
-     - Data analysis
-     - Web Development
-- 💬 Favorite Quote / Work Philosophy: "First I solve, then I code"
+"First I solve, then I code"
 
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
