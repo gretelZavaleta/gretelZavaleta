@@ -9,9 +9,9 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I'm a Software Development Engineering student with a growing focus on full stack web development. I'm passionate about building functional, well-structured technological solutions that create real social impact.
+I'm a Software Development Engineering student with a growing focus on full stack web development and machine learning. I'm passionate about building functional, well-structured technological solutions that create real social impact.
   
-"First I solve, then I code"
+My motto: "First I solve, then I code"
 
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
